@@ -1,8 +1,6 @@
-cat > packages.json << 'EOF'
 [
   {
     "package": "habitat",
-    "url":     "https://github.com/samanghs/habitat"
+    "url": "https://github.com/samanghs/habitat"
   }
 ]
-EOF
